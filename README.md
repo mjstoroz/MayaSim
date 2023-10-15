@@ -13,7 +13,7 @@ The current version of MayaSim available on the CoMSES Network is out of date (N
 Bibliography
 
 Heckbert, S. (2013) MayaSim: An Agent-Based Model of the Ancient Maya Social-Ecological System. Journal of Artificial Societies and Social Simulation. 
-[](https://www.jasss.org/16/4/11.html)
+(https://www.jasss.org/16/4/11.html)
 
-Heckbert, S., Isendahl, C., Gunn, J., Brewer, S., Scarborough, V., Chase, A.F., Chase, D.Z., Costanza, R., Dunning, N., Beach, T., Luzzadder-Beach, S., Lentz, D., Sinclair, P.. (2013). Growing the ancient Maya social-ecological system from the bottom up. In: Isendahl, C., and Stump, D. (eds.), Applied Archaeology, Historical Ecology and the Useable Past. Oxford University Press. [](https://doi.org/10.1093/oxfordhb/9780199672691.013.30)
+Heckbert, S., Isendahl, C., Gunn, J., Brewer, S., Scarborough, V., Chase, A.F., Chase, D.Z., Costanza, R., Dunning, N., Beach, T., Luzzadder-Beach, S., Lentz, D., Sinclair, P.. (2013). Growing the ancient Maya social-ecological system from the bottom up. In: Isendahl, C., and Stump, D. (eds.), Applied Archaeology, Historical Ecology and the Useable Past. Oxford University Press. (https://doi.org/10.1093/oxfordhb/9780199672691.013.30)
 
